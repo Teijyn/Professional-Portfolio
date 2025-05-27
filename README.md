@@ -78,6 +78,39 @@ Improved team coordination, reduced sprint carryover, and increased on-time proj
 
 **Outcome:**  Streamlined knowledge sharing across teams and improved execution quality by making documentation accessible, consistent, and continuously updated.
 
+📌***Postman API Support for Production Systems***
+
+**Goal:**  To validate and troubleshoot API-driven manufacturing processes using Postman, enabling real-time visibility and quick issue resolution on the production floor.
+
+**Description:**  Postman was used in an active manufacturing environment to test, validate, and manage system-level API integrations for production tracking, tooling steps, VIN assignments, and option code updates. While not a backend developer, I owned API interactions needed to debug system flows, support engineering teams, and reduce production blockers.
+
+**Skills:**  
+- Executed and validated REST API calls across multiple systems  
+- Used Postman to verify torque tool configuration APIs, MES communication, and event logging endpoints  
+- Managed environments and variable sets for different factories, systems, or shift-based tests  
+- Interpreted JSON/XML responses to confirm system behavior or flag discrepancies   
+- Used environment files to toggle between dev/staging environments  
+- Collaborated with system engineers to report malformed payloads or missing step responses
+- Authorization flows (Bearer Token, API Key, OAuth 2.0)  
+- Collection runner and automated test sequences  
+- Mock servers and API documentation sharing
+
+**Technology:**  
+- Postman (Collections, Environment Variables, Test Scripts)  
+- Tesla MES API endpoints (SparqEX, Cardjob, TaskGroup, VIN Assignment)  
+- JSON payload management  
+- Token-based authentication    
+
+**Use Case Highlights**  
+- ✅ `Move THING` → Simulates a tooling or material movement through a step  
+- ✅ `Complete Task` → Records a process step result (e.g., torque value, error code, pass/fail)  
+- ✅ `Undo Last Step` → Used to back out tasks when defects or errors are caught  
+- ✅ `Assign VIN` → API support for VIN allocation from a part number or process  
+- ✅ `Option Code Update` → Modify manufacturing configuration like wheels, brakes, etc.  
+- ✅ `Consume Card / Get CardJob` → For verifying process state in the job queue  
+- ✅ `Who Created Task` → Traceback to debug bad data, incomplete flows, or mismatched assignments  
+
+**Results:**  By using Postman as a non-developer, I enabled faster support response during production escalations, improved engineering collaboration, and ensured critical APIs were performing as expected on the line.
 
 
 ## 🎓 Education  
