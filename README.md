@@ -7,7 +7,7 @@
 
 📁 This GitHub showcases some of my professional and exploratory projects in data analytics, system documentation, and process optimization. Let’s connect!
 
-[📄 My Resume (PDF)](https://github.com/Teijyn/Professional-Portfolio/blob/main/Joseph_Pham_Resume.docx.pdf)
+📄[Resume in (PDF)](https://github.com/Teijyn/Professional-Portfolio/blob/main/Joseph_Pham_Resume.docx.pdf)
 
 
 ## 🗂️ Project Portfolio  
