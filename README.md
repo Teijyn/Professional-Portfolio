@@ -35,6 +35,8 @@ A collection of hands-on projects showcasing my experience in data analytics, sy
 
 📌***JIRA – Agile Project Tracking***
 
+***Code:***  [JIRA Queries Code](https://github.com/Teijyn/ProjectPortfolio/blob/main/JIRA%20Queries.jql)
+
 **Goal:**   To manage and track technical projects with precision using JIRA, enabling Agile delivery and real-time visibility across cross-functional teams.
 
 **Description:**  I’ve used JIRA to lead and support enterprise system integrations, tooling deployments, and process improvement initiatives. This includes managing sprint cycles, user stories, issue tracking, and stakeholder alignment throughout the project lifecycle.
