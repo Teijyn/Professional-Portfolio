@@ -33,6 +33,48 @@ A collection of hands-on projects showcasing my experience in data analytics, sy
 **Results:**  Enabled timely insights into key production metrics by delivering scalable, production-ready SQL queries. These queries helped identify high-defect trends, optimize resource planning, and support lean initiatives, reflecting hands-on experience with real-time manufacturing systems.
 
 
+***JIRA – Agile Project Tracking***
+
+**Goal:**   To manage and track technical projects with precision using JIRA, enabling Agile delivery and real-time visibility across cross-functional teams.
+
+**Description:**  I’ve used JIRA to lead and support enterprise system integrations, tooling deployments, and process improvement initiatives. This includes managing sprint cycles, user stories, issue tracking, and stakeholder alignment throughout the project lifecycle.
+
+**Skills Demonstrated:**  
+- Created and managed custom Scrum and Kanban boards  
+- Developed and refined epics, user stories, subtasks, and workflows  
+- Used advanced JQL queries to build filtered dashboards and reports  
+- Facilitated sprint planning, daily stand-ups, and retrospectives  
+- Aligned development and operations through ticket tracking and priority workflows
+
+**Technology:**  
+- JIRA Software (Cloud and Server)  
+- Agile / Scrum frameworks  
+- JQL (JIRA Query Language)  
+- Integrated tools (e.g., Slack, Confluence)
+
+**Outcome:**  
+Improved team coordination, reduced sprint carryover, and increased on-time project delivery through effective Agile planning and real-time status tracking.
+
+
+***Confluence – Collaborative Documentation***
+
+**Goal:**  To create centralized, accessible, and living documentation for technical projects and team processes using Confluence.
+
+**Description:**  I’ve used Confluence extensively to support engineering programs by developing documentation spaces, SOPs, integration plans, and status pages. This ensured clear communication, easy onboarding, and organizational knowledge retention.
+
+**Skills Demonstrated:**  
+- Built structured documentation spaces for systems integration and tooling workflows  
+- Linked Confluence pages to JIRA tickets for traceable project artifacts  
+- Created knowledge bases for internal tools, best practices, and validation steps  
+- Designed templates for sprint summaries, project retrospectives, and decision logs  
+- Maintained real-time dashboards and updates for leadership and project teams
+
+**Technology:**  
+- Atlassian Confluence  
+- Confluence-JIRA integration  
+- Visual flowcharts, macros, and page templates
+
+**Outcome:**  Streamlined knowledge sharing across teams and improved execution quality by making documentation accessible, consistent, and continuously updated.
 
 
 
