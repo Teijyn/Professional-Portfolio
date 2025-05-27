@@ -13,7 +13,11 @@
 
 
 
+## 🎓 Education  
 
+**Southern New Hampshire University**  
+*Associate of Science – Data Analytics (In Progress)*  
+Currently building a strong foundation in statistical analysis, data visualization, and data-driven decision making.
 
 ## 🎓 Certifications  
 I’m committed to continuous learning and professional growth. Below are a few certifications I’ve earned to strengthen my data analytics and project management skills.
