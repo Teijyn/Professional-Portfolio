@@ -10,7 +10,7 @@
 ## 🗂️ Project Portfolio  
 A collection of hands-on projects showcasing my experience in data analytics, systems integration, and process improvement. Each project reflects practical, real-world applications and technical problem-solving.
 
-***Tesla Manufacturing SQL Query Collection*** 
+📌***Tesla Manufacturing SQL Query Collection***
 
 **Code:**
 [Manufacturing Queries](https://github.com/Teijyn/ProjectPortfolio/blob/main/SQL%20Queries.sql)
@@ -33,7 +33,7 @@ A collection of hands-on projects showcasing my experience in data analytics, sy
 **Results:**  Enabled timely insights into key production metrics by delivering scalable, production-ready SQL queries. These queries helped identify high-defect trends, optimize resource planning, and support lean initiatives, reflecting hands-on experience with real-time manufacturing systems.
 
 
-***JIRA – Agile Project Tracking***
+📌***JIRA – Agile Project Tracking***
 
 **Goal:**   To manage and track technical projects with precision using JIRA, enabling Agile delivery and real-time visibility across cross-functional teams.
 
@@ -56,7 +56,7 @@ A collection of hands-on projects showcasing my experience in data analytics, sy
 Improved team coordination, reduced sprint carryover, and increased on-time project delivery through effective Agile planning and real-time status tracking.
 
 
-***Confluence – Collaborative Documentation***
+📌***Confluence – Collaborative Documentation***
 
 **Goal:**  To create centralized, accessible, and living documentation for technical projects and team processes using Confluence.
 
