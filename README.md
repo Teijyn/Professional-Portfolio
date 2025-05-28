@@ -43,7 +43,7 @@ A collection of hands-on projects showcasing my experience in data analytics, sy
 **Results:**  Enabled timely insights into key production metrics by delivering scalable, production-ready SQL queries. These queries helped identify high-defect trends, optimize resource planning, and support lean initiatives, reflecting hands-on experience with real-time manufacturing systems.
 
 
-📌***JIRA – Agile Project Tracking***
+📌***JIRA Agile Project Tracking***
 
 ***Code:***  [JIRA Queries Code](https://github.com/Teijyn/ProjectPortfolio/blob/main/JIRA%20Queries.jql)
 
@@ -67,7 +67,7 @@ A collection of hands-on projects showcasing my experience in data analytics, sy
 **Outcome:**  Improved team coordination, reduced sprint carryover, and increased on-time project delivery through effective Agile planning and real-time status tracking.
 
 
-📌***Confluence – Collaborative Documentation***
+📌***Confluence Collaborative Documentation***
 
 **Goal:**  To create centralized, accessible, and living documentation for technical projects and team processes using Confluence.
 
@@ -144,7 +144,7 @@ A collection of hands-on projects showcasing my experience in data analytics, sy
 
 **Outcome**:  Delivered a project planning tool used by engineering and production teams to coordinate dependencies, monitor risks, and ensure a timely, efficient equipment launch.
 
-📌***Excel – Interactive Dashboard - Torque Tool Repair Expense Tracker***
+📌***Excel Interactive Dashboard***
 
 **Excel**: [Tool Repair Expense Tracker](https://github.com/Teijyn/ProjectPortfolio/blob/main/Tool%20Repair%20Expense.xlsx)
 
