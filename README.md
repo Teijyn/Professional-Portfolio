@@ -11,7 +11,6 @@ This GitHub showcases some of my professional and exploratory projects in data a
 
 ## 📑 Table of Contents
 
-- [Excel – Interactive Project Timeline Dashboard](#excel-interactive-project-timeline-dashboard)
 
 
 
