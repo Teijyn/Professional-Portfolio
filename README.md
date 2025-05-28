@@ -11,7 +11,7 @@ This GitHub showcases some of my professional and exploratory projects in data a
 
 ## 📑 Table of Contents
 
-- [Excel – Interactive Project Timeline Dashboard](#excel--interactive-project-timeline-dashboard)
+- [Excel – Interactive Project Timeline Dashboard](#excel-interactive-project-timeline-dashboard)
 
 
 
@@ -121,7 +121,7 @@ A collection of hands-on projects showcasing my experience in data analytics, sy
 
 **Results:**  By using Postman as a non-developer, I enabled faster support response during production escalations, improved engineering collaboration, and ensured critical APIs were performing as expected on the line.
 
-📌***Excel – Interactive Project Timeline Dashboard***
+📌***Excel Interactive Project Timeline Dashboard***
 
 ***Excel***: [Gantt Chart](https://github.com/Teijyn/ProjectPortfolio/blame/main/Multispindle_Gantt.xlsx)
 
