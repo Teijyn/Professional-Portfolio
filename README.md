@@ -9,6 +9,17 @@ This GitHub showcases some of my professional and exploratory projects in data a
 
 📄[Resume in (PDF)](https://github.com/Teijyn/Professional-Portfolio/blob/main/Joseph_Pham_Resume.docx.pdf)
 
+## 📑 Table of Contents
+
+- [📌 Excel – Interactive Project Timeline Dashboard](#-excel--interactive-project-timeline-dashboard)
+- [📌 Excel – Tool Repair Expense Tracker](#-excel--tool-repair-expense-tracker)
+- [📌 JIRA – Agile Project Tracking](#-jira--agile-project-tracking)
+- [📌 SQL – Health Data Query Optimization](#-sql--health-data-query-optimization)
+- [📌 Tableau – Sales Performance Dashboard](#-tableau--sales-performance-dashboard)
+- [📌 Python – Exploratory Data Analysis (EDA)](#-python--exploratory-data-analysis-eda)
+
+
+
 
 ## 🗂️ Project Portfolio  
 A collection of hands-on projects showcasing my experience in data analytics, systems integration, and process improvement. Each project reflects practical, real-world applications and technical problem-solving.
