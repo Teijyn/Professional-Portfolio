@@ -139,7 +139,7 @@ A collection of hands-on projects showcasing my experience in data analytics, sy
 
 📌***Excel – Interactive Dashboard - Torque Tool Repair Expense Tracker***
 
-**Excel**: Budget & Expense Management Sheet
+**Excel**: [Tool Repair Expense Tracker – Excel File](https://github.com/Teijyn/ProjectPortfolio/blob/main/Tool%20Repair%20Expense.xlsx)
 
 **Goal**: To monitor and manage repair costs for various tooling equipment, categorized by sub-category and vendor, ensuring budget alignment and spend transparency.
 
