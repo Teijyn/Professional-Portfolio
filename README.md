@@ -116,7 +116,7 @@ A collection of hands-on projects showcasing my experience in data analytics, sy
 
 📌***Excel – Interactive Project Timeline Dashboard***
 
-***Code***: [Gantt Chart](https://github.com/Teijyn/ProjectPortfolio/blame/main/Multispindle_Gantt.xlsx)
+***Excel***: [Gantt Chart](https://github.com/Teijyn/ProjectPortfolio/blame/main/Multispindle_Gantt.xlsx)
 
 **Goal**:  To build an interactive Excel-based Gantt chart that visualizes key milestones and task dependencies for tooling installation and validation.
 
