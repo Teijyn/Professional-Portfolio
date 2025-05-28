@@ -57,8 +57,7 @@ A collection of hands-on projects showcasing my experience in data analytics, sy
 - JQL (JIRA Query Language)  
 - Integrated tools (e.g., Slack, Confluence)
 
-**Outcome:**  
-Improved team coordination, reduced sprint carryover, and increased on-time project delivery through effective Agile planning and real-time status tracking.
+**Outcome:**  Improved team coordination, reduced sprint carryover, and increased on-time project delivery through effective Agile planning and real-time status tracking.
 
 
 📌***Confluence – Collaborative Documentation***
@@ -114,6 +113,29 @@ Improved team coordination, reduced sprint carryover, and increased on-time proj
 - ✅ `Who Created Task` → Traceback to debug bad data, incomplete flows, or mismatched assignments  
 
 **Results:**  By using Postman as a non-developer, I enabled faster support response during production escalations, improved engineering collaboration, and ensured critical APIs were performing as expected on the line.
+
+📌***Excel – Interactive Project Timeline Dashboard***
+
+***Code***: [Gantt Chart](https://github.com/Teijyn/ProjectPortfolio/blame/main/Multispindle_Gantt.xlsx)
+
+**Goal**:  To build an interactive Excel-based Gantt chart that visualizes key milestones and task dependencies for tooling installation and validation.
+
+**Description**:  This Excel dashboard tracks a 7-day installation schedule for multispindle torque tool equipment, including tasks like electrical wiring, cement paving, equipment setup, and final testing. Designed to support real-time planning and cross-team visibility.
+
+**Skills Demonstrated**:
+-  Developed Gantt charts using dynamic formatting and timeline bars
+-  Applied task categorization (Goals, Milestones, Risks) for project clarity
+-  Used formulas (IF, TODAY, NETWORKDAYS, CONCAT, etc.) to automate schedule logic
+-  Enabled task tracking with conditional formatting and auto-highlighting
+-  Created a professional, readable layout optimized for stakeholder review
+
+**Technology**:
+-  Microsoft Excel 365
+-  Data Validation & Named Ranges
+-  PivotTables & Formulas
+-  Project Planning Techniques
+
+**Outcome**:  Delivered a project planning tool used by engineering and production teams to coordinate dependencies, monitor risks, and ensure a timely, efficient equipment launch.
 
 
 ## 🎓 Education  
