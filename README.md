@@ -137,6 +137,29 @@ A collection of hands-on projects showcasing my experience in data analytics, sy
 
 **Outcome**:  Delivered a project planning tool used by engineering and production teams to coordinate dependencies, monitor risks, and ensure a timely, efficient equipment launch.
 
+📌***Excel – Interactive Dashboard - Torque Tool Repair Expense Tracker***
+
+**Excel**: Budget & Expense Management Sheet
+
+**Goal**: To monitor and manage repair costs for various tooling equipment, categorized by sub-category and vendor, ensuring budget alignment and spend transparency.
+
+**Description**: This Excel workbook is structured to track tool repair expenses across multiple categories, including Makita, ESTIC, and Atlas. It captures key data, including tool name, vendor, limit, amount, and date. The tool supports monthly budget reviews and helps identify high-cost repairs or vendors with frequent service needs.
+
+**Skills Demonstrated**:
+-  Utilized SUMIFS, AVERAGEIFS, and FILTER formulas for conditional aggregations
+-  Applied data validation for consistent sub-category input
+-  Built dynamic lookups for vendor-specific cost reporting
+-  Created summaries by sub-category and vendor using formula-based calculations
+-  Enabled cross-sheet referencing for centralized budget tracking
+-  Implemented clear formatting and structured layout for usability
+
+**Technology**:
+-  Microsoft Excel 365
+-  Data Validation & Named Ranges
+-  Conditional Formatting & Formula Logic
+-  Basic Expense Reporting Techniques
+
+**Outcome**: Delivered an efficient financial tracking sheet used by operations and purchasing teams to manage tooling repair expenses, optimize vendor choices, and stay within monthly repair budgets.
 
 ## 🎓 Education  
 
