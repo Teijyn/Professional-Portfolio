@@ -12,11 +12,6 @@ This GitHub showcases some of my professional and exploratory projects in data a
 ## 📑 Table of Contents
 
 - [Excel – Interactive Project Timeline Dashboard](#excel--interactive-project-timeline-dashboard)
-- [Excel – Tool Repair Expense Tracker](#excel--tool-repair-expense-tracker)
-- [JIRA – Agile Project Tracking](#jira--agile-project-tracking)
-- [SQL – Health Data Query Optimization](#sql--health-data-query-optimization)
-- [Tableau – Sales Performance Dashboard](#tableau--sales-performance-dashboard)
-- [Python – Exploratory Data Analysis EDA](#python--exploratory-data-analysis-eda)
 
 
 
