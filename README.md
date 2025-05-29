@@ -150,7 +150,7 @@ A collection of hands-on projects showcasing my experience in data analytics, sy
 
 **Outcome**:  Delivered a project planning tool used by engineering and production teams to coordinate dependencies, monitor risks, and ensure a timely, efficient equipment launch.
 
-##📌***Excel Interactive Dashboard***
+## 📌***Excel Interactive Dashboard***
 
 **Excel**: [Tool Repair Expense Tracker](https://github.com/Teijyn/ProjectPortfolio/blob/main/Tool%20Repair%20Expense.xlsx)
 
