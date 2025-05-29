@@ -11,7 +11,7 @@ This GitHub showcases some of my professional and exploratory projects in data a
 
 ## 📑 Table of Contents
 
-- [📌 Tesla Manufacturing SQL Query Collection](#tesla-manufacturing-sql-query-collection)
+- [📌 Tesla Manufacturing SQL Query Collection](#manufacturing-queries)
 - [📌 JIRA Agile Project Tracking](#jira-agile-project-tracking)
 - [📌 Confluence Collaborative Documentation](#confluence-collaborative-documentation)
 - [📌 Postman API Support for Production Systems](#postman-api-support-for-production-systems)
