@@ -10,13 +10,15 @@ This GitHub showcases some of my professional and exploratory projects in data a
 📄[Resume in (PDF)](https://github.com/Teijyn/Professional-Portfolio/blob/main/Joseph_Pham_Resume.docx.pdf)
 
 ## 📑 Table of Contents
-
-- [Tesla Manufacturing SQL Query Collection](#tesla-manufacturing-sql-query-collection)
-- [JIRA Agile Project Tracking](#jira-agile-project-tracking)
-- [Confluence Collaborative Documentation](#confluence-collaborative-documentation)
-- [Postman API Support for Production Systems](#postman-api-support-for-production-systems)
-- [Excel Interactive Project Timeline Dashboard](#excel-interactive-project-timeline-dashboard)
-- [Excel Interactive Dashboard](#excel-interactive-dashboard)
+-  Query Language
+  - 📌[Tesla Manufacturing SQL Query Collection](#tesla-manufacturing-sql-query-collection)
+  - 📌[JIRA Agile Project Tracking](#jira-agile-project-tracking)
+  - 📌[Confluence Collaborative Documentation](#confluence-collaborative-documentation)
+-  API
+  - 📌[Postman API Support for Production Systems](#postman-api-support-for-production-systems)
+-  Excel
+  - 📌[Excel Interactive Project Timeline Dashboard](#excel-interactive-project-timeline-dashboard)
+  - 📌[Excel Interactive Dashboard](#excel-interactive-dashboard)
 
 
 
@@ -26,7 +28,7 @@ This GitHub showcases some of my professional and exploratory projects in data a
 ## 🗂️ Project Portfolio  
 A collection of hands-on projects showcasing my experience in data analytics, systems integration, and process improvement. Each project reflects practical, real-world applications and technical problem-solving.
 
-📌***Tesla Manufacturing SQL Query Collection***
+## 📌***Tesla Manufacturing SQL Query Collection***
 
 **Code:**
 [Manufacturing Queries](https://github.com/Teijyn/ProjectPortfolio/blob/main/SQL%20Queries.sql)
@@ -49,7 +51,7 @@ A collection of hands-on projects showcasing my experience in data analytics, sy
 **Results:**  Enabled timely insights into key production metrics by delivering scalable, production-ready SQL queries. These queries helped identify high-defect trends, optimize resource planning, and support lean initiatives, reflecting hands-on experience with real-time manufacturing systems.
 
 
-📌***JIRA Agile Project Tracking***
+## 📌***JIRA Agile Project Tracking***
 
 ***Code:***  [JIRA Queries Code](https://github.com/Teijyn/ProjectPortfolio/blob/main/JIRA%20Queries.jql)
 
@@ -73,7 +75,7 @@ A collection of hands-on projects showcasing my experience in data analytics, sy
 **Outcome:**  Improved team coordination, reduced sprint carryover, and increased on-time project delivery through effective Agile planning and real-time status tracking.
 
 
-📌***Confluence Collaborative Documentation***
+## 📌***Confluence Collaborative Documentation***
 
 **Goal:**  To create centralized, accessible, and living documentation for technical projects and team processes using Confluence.
 
@@ -93,7 +95,7 @@ A collection of hands-on projects showcasing my experience in data analytics, sy
 
 **Outcome:**  Streamlined knowledge sharing across teams and improved execution quality by making documentation accessible, consistent, and continuously updated.
 
-📌***Postman API Support for Production Systems***
+## 📌***Postman API Support for Production Systems***
 
 **Goal:**  To validate and troubleshoot API-driven manufacturing processes using Postman, enabling real-time visibility and quick issue resolution on the production floor.
 
@@ -127,7 +129,7 @@ A collection of hands-on projects showcasing my experience in data analytics, sy
 
 **Results:**  By using Postman as a non-developer, I enabled faster support response during production escalations, improved engineering collaboration, and ensured critical APIs were performing as expected on the line.
 
-📌***Excel Interactive Project Timeline Dashboard***
+## 📌***Excel Interactive Project Timeline Dashboard***
 
 ***Excel***: [Gantt Chart](https://github.com/Teijyn/ProjectPortfolio/blame/main/Multispindle_Gantt.xlsx)
 
