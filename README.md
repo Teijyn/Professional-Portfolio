@@ -10,15 +10,18 @@ This GitHub showcases some of my professional and exploratory projects in data a
 📄[Resume in (PDF)](https://github.com/Teijyn/Professional-Portfolio/blob/main/Joseph_Pham_Resume.docx.pdf)
 
 ## 📑 Table of Contents
--  Query Language
-  - 📌[Tesla Manufacturing SQL Query Collection](#tesla-manufacturing-sql-query-collection)
-  - 📌[JIRA Agile Project Tracking](#jira-agile-project-tracking)
-  - 📌[Confluence Collaborative Documentation](#confluence-collaborative-documentation)
--  API
-  - 📌[Postman API Support for Production Systems](#postman-api-support-for-production-systems)
--  Excel
-  - 📌[Excel Interactive Project Timeline Dashboard](#excel-interactive-project-timeline-dashboard)
-  - 📌[Excel Interactive Dashboard](#excel-interactive-dashboard)
+
+### 🔍 Query Language
+- 📌 [Tesla Manufacturing SQL Query Collection](#tesla-manufacturing-sql-query-collection)
+- 📌 [JIRA Agile Project Tracking](#jira-agile-project-tracking)
+- 📌 [Confluence Collaborative Documentation](#confluence-collaborative-documentation)
+
+### 🔗 API
+- 📌 [Postman API Support for Production Systems](#postman-api-support-for-production-systems)
+
+### 📊 Excel
+- 📌 [Excel Interactive Project Timeline Dashboard](#excel-interactive-project-timeline-dashboard)
+- 📌 [Excel Interactive Dashboard](#excel-interactive-dashboard)
 
 
 
